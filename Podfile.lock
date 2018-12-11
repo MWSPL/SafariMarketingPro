@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (4.7.3)
+  - ASToast (1.1.2)
+  - NVActivityIndicatorView (4.4.0):
+    - NVActivityIndicatorView/Presenter (= 4.4.0)
+  - NVActivityIndicatorView/Presenter (4.4.0)
+  - SlideMenuControllerSwift (4.0.0)
+  - SwiftValidator (3.0.3)
+  - Tamamushi (0.1.3)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - ASToast (~> 1.1.2)
+  - NVActivityIndicatorView
+  - SlideMenuControllerSwift
+  - SwiftValidator
+  - Tamamushi
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - ASToast
+    - NVActivityIndicatorView
+    - SlideMenuControllerSwift
+    - SwiftValidator
+    - Tamamushi
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  ASToast: 490fa575d7fdec1b847a9c24b58539e8c4e4a531
+  NVActivityIndicatorView: ec7440a57af2450319d3a4181cca7da6fc127064
+  SlideMenuControllerSwift: 021d6318201c53d4d4d3710517d43d6c556c7dd0
+  SwiftValidator: 0b6a48bf10364411b0d64c97f78665ff87ca9f8b
+  Tamamushi: 4c07eb1e0f612f0bd9e67d7c5f0f3edd3a238680
+
+PODFILE CHECKSUM: 68394f53873a2d98b7af31fc0e4bd329024d869e
+
+COCOAPODS: 1.5.3
