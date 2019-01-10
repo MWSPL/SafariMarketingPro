@@ -10,8 +10,9 @@ import UIKit
 
 class pfcell: UICollectionViewCell {
     
-    @IBOutlet weak var wbsite: UILabel!
-    @IBOutlet weak var webName: UILabel!
+    
     @IBOutlet weak var imgvw: UIImageView!
+    
+    @IBOutlet weak var txtvw: UITextView!
     
 }
